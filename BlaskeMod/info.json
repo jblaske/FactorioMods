@@ -1,0 +1,10 @@
+{
+  "name": "BlaskeMod",
+  "version": "0.1",
+  "factorio_version": "0.14",
+  "title": "BlaskeMod",
+  "author": "jblaske",
+  "contact": "http://github.com/jblaske/FactorioMods/BlaskeMod",
+  "homepage": "http://github.com/jblaske/FactorioMods/",
+  "description": "Various quality of life modifications such as individual user spawn points, and keeping inventory on death."
+}
